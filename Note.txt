@@ -1,0 +1,2 @@
+interpolation (TS to HTML) เป็นการสื่อสารระหว่าง component เวลาใช้ {{}} แค่เป็นการเอาตัวแปรที่อยู่ใน ไฟล์TS มาแสดงใน html
+Input (Parent to Child Property Binding) สื่อสารจากแม่ไปลูก
